@@ -38,6 +38,14 @@
 字典加载速度快30倍 
 同个大文件检索速度快48%
 
+
+
+
+
+
+
+
+
 Fols-Trie
 ![image](https://github.com/sininit/Trie/blob/main/1.png)
 
