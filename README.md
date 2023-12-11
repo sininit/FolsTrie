@@ -6,7 +6,7 @@
 同个大文件检索速度快48%
 
 Fols-Trie
-![image]([https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png](https://github.com/sininit/Trie/blob/main/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20231211195434.png))
+![image](https://github.com/sininit/Trie/blob/main/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20231211195434.png)
 
 hankcs/AhoCorasickDoubleArrayTrie
 ![image](https://github.com/sininit/Trie/blob/main/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20231211195601.png)
