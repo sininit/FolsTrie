@@ -1,4 +1,8 @@
 可能是Java最快的字典树 简单 内存占用低
+对比对象 hankcs/AhoCorasickDoubleArrayTrie
+
+优点
+最简单的数据结构 没有复杂的代码
 利用哈希表做存储结构 构造完成字典后会自动重构哈希表 优化到可接受的链表深度 Trie每次查找时直接用哈希表的数据直接查速度非常快
 ```
     public void parseText(String word, int i, int limit, FilterIndex filter) {
@@ -32,12 +36,11 @@
 		}
 	}
 ```
-对比对象 hankcs/AhoCorasickDoubleArrayTrie
-
+```java
 内存低了50%（这个不算因为他的结构比较大）
 字典加载速度快30倍 
 同个大文件检索速度快48%
-
+```
 
 
 
