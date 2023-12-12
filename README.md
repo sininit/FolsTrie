@@ -56,6 +56,9 @@ hankcs/AhoCorasickDoubleArrayTrie
 ![image](https://github.com/sininit/Trie/blob/main/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20231211195601.png)
 
 
+在安卓上对比速度依旧是暴打
+![image](https://github.com/sininit/Trie/blob/main/Screenshot_2023-12-12-12-58-20-91_be7fb60b561b1cb2f31b665f3e5bb659.jpg)
+
 ```java
 Fols-Trie
     [2, 0, 1]
